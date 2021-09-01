@@ -57,10 +57,10 @@
       </Node>
       <!--
 
-    ************************ RegisterObjectEditor ************************
+    ************************ RegisterIVLObjectEditor ************************
 
 -->
-      <Node Name="RegisterObjectEditor" Bounds="367,221,226,203" Id="EH490fcu5euLcOtmevplYL">
+      <Node Name="RegisterIVLObjectEditor" Bounds="367,221,226,203" Id="EH490fcu5euLcOtmevplYL">
         <p:NodeReference LastCategoryFullName="Primitive" LastSymbolSource="Builtin">
           <Choice Kind="OperationDefinition" Name="Operation" />
         </p:NodeReference>
@@ -667,8 +667,8 @@
           <ControlPoint Id="McZaFNgeNmxL0kAODkLDG3" Bounds="927,667" />
           <Link Id="Da8RRuMR2ZnPQssMcyLIEx" Ids="UHQY2B3LbFnNihmxroaGgE,McZaFNgeNmxL0kAODkLDG3" IsHidden="true" />
           <Node Bounds="930,686,74,95" Id="QCwrR3XyIq0PJ4XEZMegSz">
-            <p:NodeReference LastCategoryFullName="Inspector" LastSymbolSource="VL.Inspector.vl">
-              <Choice Kind="OperationCallFlag" Name="RegisterObjectEditor" />
+            <p:NodeReference>
+              <Choice Kind="OperationCallFlag" Name="RegisterIVLObjectEditor" />
               <Choice Kind="RegionFlag" Name="Region (Stateless)" Fixed="true" />
             </p:NodeReference>
             <Pin Id="HuxVhdMNrVGMcENPvYoEGx" Name="Input" Kind="InputPin" />
@@ -701,8 +701,8 @@
           <Link Id="KLyivazwX0lLkueYZ4ODGf" Ids="IApCfPxFASgN4oobEB3iei,OA3UIuXLrFOMMbB228u2LP" />
           <Link Id="OjlxwkZC4ghN3HkNb7VdCi" Ids="McZaFNgeNmxL0kAODkLDG3,HuxVhdMNrVGMcENPvYoEGx" />
           <Node Bounds="1126,687,74,95" Id="SHcvaUvXc6RLMCERaTdjOx">
-            <p:NodeReference LastCategoryFullName="Inspector" LastSymbolSource="VL.Inspector.vl">
-              <Choice Kind="OperationCallFlag" Name="RegisterObjectEditor" />
+            <p:NodeReference>
+              <Choice Kind="OperationCallFlag" Name="RegisterIVLObjectEditor" />
               <Choice Kind="RegionFlag" Name="Region (Stateless)" Fixed="true" />
             </p:NodeReference>
             <Pin Id="KBTIPnSGjQHPaRvkzvaAs2" Name="Input" Kind="InputPin" />
