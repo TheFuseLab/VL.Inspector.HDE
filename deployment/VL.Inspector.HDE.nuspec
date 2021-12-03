@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>VL.Inspector</id>
+    <id>VL.Inspector.HDE</id>
     <version>1.0.0</version>
     <authors>TheFuseLab</authors>
     <owners>TheFuseLab</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">LGPL-3.0-only</license>
     <licenseUrl>https://licenses.nuget.org/LGPL-3.0-only</licenseUrl>
-    <projectUrl>https://github.com/TheFuseLab/VL.Inspector</projectUrl>
+    <projectUrl>https://github.com/TheFuseLab/VL.Inspector.HDE</projectUrl>
     <description>Inspector for vvvv gamma </description>
     <tags>VL</tags>
   </metadata>
