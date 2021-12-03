@@ -21,6 +21,6 @@ jobs:
     - name: Publish VL Nuget
       uses: vvvv/PublishVLNuget@1.0.41
       with:
-        nuspec: deployment/VL.Inspector.nuspec
+        nuspec: deployment/VL.Inspector.HDE.nuspec
         version: ${{ github.event.inputs.version }}
         nuget-key: ${{ secrets.NUGET_KEY }}
